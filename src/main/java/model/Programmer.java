@@ -1,6 +1,6 @@
 package model;
 
-import model.enums.Gender;
+
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
